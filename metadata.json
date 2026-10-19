@@ -1,0 +1,10 @@
+{
+  "name": "Madhav Medical Hall",
+  "description": "MADHAV MEDICAL HALL - Pharmacy Management & Medicine Delivery System for Baheri, Darbhanga",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
